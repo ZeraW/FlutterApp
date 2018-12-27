@@ -1,6 +1,6 @@
 # FlutterApp
 
-- Flutter Resources
+  Flutter Resources
 - Documentation: https://docs.flutter.io/
 - Github: https://github.com/flutter/flutter
 - StackOverflow: https://stackoverflow.com/questions/tagged/flutter
